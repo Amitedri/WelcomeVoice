@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAA;EACV,MAAM,EAAC,KAAK;EACZ,KAAK,EAAE,KAAK;EACZ,MAAM,EAAC,cAAc;EACrB,gBAAgB,EAAE,KAAK;CAC1B",
+    "sources": [
+        "Voice.scss"
+    ],
+    "names": [],
+    "file": "Voice.css"
+}
